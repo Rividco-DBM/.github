@@ -6,7 +6,7 @@ Welcome to the **Rividco** GitHub organization! This organization manages reposi
 
 The Rividco project comprises three key repositories:
 
-### 1. [Rividco Backend](https://github.com/Rividco-DBM/rividco.git)
+### 1. [Rividco Backend](https://github.com/Tharusha-2000/rividco.git)
 This repository houses the backend logic for the Rividco platform. It includes:
 - **Tech Stack:** Node.js, MongoDB, Express.js
 - Features:
@@ -16,7 +16,7 @@ This repository houses the backend logic for the Rividco platform. It includes:
   - SEO support, including sitemap and robots.txt generation.
 - **Deployment:** Hosted on a Node.js-compatible environment.
 
-### 2. [Rividco Frontend](https://github.com/Tharusha-2000/rividco.git)
+### 2. [Rividco Frontend](https://github.com/Rividco-DBM/rividco.git)
 This repository contains the user-facing frontend for the Rividco platform. It includes:
 - **Tech Stack:** ReactJS
 - Features:
